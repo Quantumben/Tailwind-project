@@ -1,0 +1,24 @@
+/////////////////////
+
+build will make it compile the css file automatically
+
+//////////////////////
+
+
+////////////////
+Note:colors and height in the tailwind.config.js is a custom 
+color and height 
+
+colors: {
+        'primary': '#5555ff'
+      },
+      height: {
+        '13': '3.25rem'
+      },
+///////////////////
+
+//////////////////
+This is called an arbitrary value
+ text-[#5555ff]
+
+/////////////////
